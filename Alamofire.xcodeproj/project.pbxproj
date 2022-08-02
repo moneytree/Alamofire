@@ -897,9 +897,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = F8111E4619A95C8B0040E7D1 /* Build configuration list for PBXNativeTarget "Alamofire iOS" */;
 			buildPhases = (
+				F8111E3019A95C8B0040E7D1 /* Headers */,
 				F8111E2E19A95C8B0040E7D1 /* Sources */,
 				F8111E2F19A95C8B0040E7D1 /* Frameworks */,
-				F8111E3019A95C8B0040E7D1 /* Headers */,
 				F8111E3119A95C8B0040E7D1 /* Resources */,
 			);
 			buildRules = (
